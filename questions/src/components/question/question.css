@@ -1,10 +1,10 @@
 :root {
-    --negative: #006d77;
-    --negative-secondary: #42999B;
+    --positive: #006d77;
+    --positive-secondary: #42999B;
     --neutral: #EDF6F9;
     --neutral-secondary: #dde7ea;
-    --positive: #e29578;
-    --positive-secondary: #F1B9A5;
+    --negative: #e29578;
+    --negative-secondary: #F1B9A5;
 }
 
 .survey-container {
